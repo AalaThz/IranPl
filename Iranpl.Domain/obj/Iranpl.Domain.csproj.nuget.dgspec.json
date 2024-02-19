@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj": {}
+    "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj": {}
   },
   "projects": {
-    "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj": {
+    "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj",
+        "projectUniqueName": "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj",
         "projectName": "Iranpl.Domain",
-        "projectPath": "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj",
+        "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj",
         "packagesPath": "C:\\Users\\taherzadeh.a\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\Iranpl\\Iranpl.Domain\\obj\\",
+        "outputPath": "E:\\project\\Iranpl_origin\\Iranpl.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taherzadeh.a\\AppData\\Roaming\\NuGet\\NuGet.Config",

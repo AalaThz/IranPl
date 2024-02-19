@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\Iranpl\\Iranpl.Api\\Iranpl.Api.csproj",
+      "projectUniqueName": "E:\\project\\Iranpl_origin\\Iranpl.Api\\Iranpl.Api.csproj",
       "projectName": "Iranpl.Api",
-      "projectPath": "E:\\project\\Iranpl\\Iranpl.Api\\Iranpl.Api.csproj",
+      "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.Api\\Iranpl.Api.csproj",
       "packagesPath": "C:\\Users\\taherzadeh.a\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\Iranpl\\Iranpl.Api\\obj\\",
+      "outputPath": "E:\\project\\Iranpl_origin\\Iranpl.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taherzadeh.a\\AppData\\Roaming\\NuGet\\NuGet.Config",

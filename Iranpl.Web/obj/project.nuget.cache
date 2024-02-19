@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JzmBk0pYcOXdVeCYHsN+A6NY1qrj9+y/mZhzezSmy9U+Ll6STp+Amwil48rlhEsfiw/fHT/0C4x8vh9LyLi22A==",
+  "dgSpecHash": "qfwVpyjetWfnelNq1FOVB3Y5zC9sSrsFVLXoNF/5G79dvuHqw9iDPERzUnuh8EDs5jWZBC2CXGeW85z8bKXi9Q==",
   "success": true,
-  "projectFilePath": "E:\\project\\Iranpl\\Iranpl.Web\\Iranpl.Web.csproj",
+  "projectFilePath": "E:\\project\\Iranpl_origin\\Iranpl.Web\\Iranpl.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taherzadeh.a\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\taherzadeh.a\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",

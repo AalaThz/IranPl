@@ -683,11 +683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\Iranpl\\Iranpl.Web\\Iranpl.Web.csproj",
+      "projectUniqueName": "E:\\project\\Iranpl_origin\\Iranpl.Web\\Iranpl.Web.csproj",
       "projectName": "Iranpl.Web",
-      "projectPath": "E:\\project\\Iranpl\\Iranpl.Web\\Iranpl.Web.csproj",
+      "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.Web\\Iranpl.Web.csproj",
       "packagesPath": "C:\\Users\\taherzadeh.a\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\Iranpl\\Iranpl.Web\\obj\\",
+      "outputPath": "E:\\project\\Iranpl_origin\\Iranpl.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taherzadeh.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -704,14 +704,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\project\\Iranpl\\Iranpl.ApplicationCore\\Iranpl.ApplicationCore.csproj": {
-              "projectPath": "E:\\project\\Iranpl\\Iranpl.ApplicationCore\\Iranpl.ApplicationCore.csproj"
+            "E:\\project\\Iranpl_origin\\Iranpl.ApplicationCore\\Iranpl.ApplicationCore.csproj": {
+              "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.ApplicationCore\\Iranpl.ApplicationCore.csproj"
             },
-            "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj": {
-              "projectPath": "E:\\project\\Iranpl\\Iranpl.Domain\\Iranpl.Domain.csproj"
+            "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj": {
+              "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.Domain\\Iranpl.Domain.csproj"
             },
-            "E:\\project\\Iranpl\\Iranpl.Ioc\\Iranpl.Ioc.csproj": {
-              "projectPath": "E:\\project\\Iranpl\\Iranpl.Ioc\\Iranpl.Ioc.csproj"
+            "E:\\project\\Iranpl_origin\\Iranpl.Ioc\\Iranpl.Ioc.csproj": {
+              "projectPath": "E:\\project\\Iranpl_origin\\Iranpl.Ioc\\Iranpl.Ioc.csproj"
             }
           }
         }

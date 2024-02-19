@@ -21,3 +21,15 @@ C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domai
 C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Domain\obj\Debug\net7.0\refint\Iranpl.Domain.dll
 C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.pdb
 C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Domain\obj\Debug\net7.0\ref\Iranpl.Domain.dll
+E:\project\Iranpl_origin\Iranpl.Domain\bin\Debug\net7.0\Iranpl.Domain.deps.json
+E:\project\Iranpl_origin\Iranpl.Domain\bin\Debug\net7.0\Iranpl.Domain.dll
+E:\project\Iranpl_origin\Iranpl.Domain\bin\Debug\net7.0\Iranpl.Domain.pdb
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.AssemblyInfoInputs.cache
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.AssemblyInfo.cs
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.csproj.CoreCompileInputs.cache
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.sourcelink.json
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.dll
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\refint\Iranpl.Domain.dll
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.pdb
+E:\project\Iranpl_origin\Iranpl.Domain\obj\Debug\net7.0\ref\Iranpl.Domain.dll

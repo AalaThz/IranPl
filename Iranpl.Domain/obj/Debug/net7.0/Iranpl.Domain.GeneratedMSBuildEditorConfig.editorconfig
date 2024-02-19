@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Iranpl.Domain
-build_property.ProjectDir = E:\project\Iranpl\Iranpl.Domain\
+build_property.ProjectDir = E:\project\Iranpl_origin\Iranpl.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

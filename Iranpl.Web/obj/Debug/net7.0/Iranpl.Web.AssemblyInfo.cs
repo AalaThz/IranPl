@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iranpl.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ba5f883c52f86cf3546ffbe436aeb160bbb1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iranpl.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iranpl.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
